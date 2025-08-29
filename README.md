@@ -17,7 +17,7 @@ Requirement Analysis is the process of identifying, gathering, analyzing, and do
 - Non-Functional Requirements – Define quality attributes (e.g., performance, reliability, scalability, and security).
 - Domain Requirements – Industry-specific needs and rules (e.g., compliance requirements in healthcare or finance).
 
-### Importance of Requirement Analysis in SDLC
+### Why is Requirement Analysis Important?
 1. Clarity of Scope – Prevents misunderstandings by ensuring all stakeholders have a common understanding of the system.
 2. Prevents Rework – Early identification of needs reduces costly changes later in development.
 3. Guides Design & Development – Provides a blueprint for system architecture, coding, and testing.
