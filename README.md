@@ -58,7 +58,7 @@ Use Case Diagrams are a type of Unified Modeling Language (UML) diagram that vis
 
 ### Use Case Diagram for Booking System
 The main actors in the booking system are:  
-- **Customer** (searches hotels, makes bookings, payments, views bookings)  
+- **Customer** (searches hotels, makes bookings, payments)  
 - **Hotel Manager** (manages hotel listings, views bookings, receives notifications)  
 - **Payment Service** (processes secure payments)  
 
