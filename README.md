@@ -75,4 +75,4 @@ The main actors in the booking system are:
 - Manage Users  
 
 ### Diagram
-<img width="578" height="337" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/e9fb59e5-68da-4cba-8739-52bf397f8645" />
+<img width="578" height="337" alt="alx-booking-uc.png" src="https://github.com/user-attachments/assets/e9fb59e5-68da-4cba-8739-52bf397f8645" />
