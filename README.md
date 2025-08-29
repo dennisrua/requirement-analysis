@@ -4,6 +4,15 @@ This repo is a documentation to show what a Requirements Analysis document is an
 ## What is Requirement Analysis?
 Requirement Analysis is the process of identifying, gathering, analyzing, and documenting the needs and expectations of stakeholders for a software project. It is one of the most crucial phases of the Software Development Life Cycle (SDLC) because it lays the foundation upon which the entire system is designed and built.
 
+## Why is Requirement Analysis Important?
+1. Clarity of Scope – Prevents misunderstandings by ensuring all stakeholders have a common understanding of the system.
+2. Prevents Rework – Early identification of needs reduces costly changes later in development.
+3. Guides Design & Development – Provides a blueprint for system architecture, coding, and testing.
+4. Improves Quality – Clear requirements ensure the final product meets user expectations and business objectives.
+5. Enhances Communication – Acts as a bridge between stakeholders and developers by translating business needs into technical terms.
+6. Facilitates Testing – Test cases are designed based on documented requirements, ensuring complete coverage.
+7. Risk Reduction – Identifies potential issues, constraints, or conflicts at an early stage.
+
 ## Key Activities in Requirement Analysis
 * Requirement Gathering – Collecting input from stakeholders (clients, users, business analysts, managers, etc.) through interviews, questionnaires, workshops, and observation.
 * Requirement Elicitation – Clarifying and uncovering hidden requirements using techniques like brainstorming, prototyping, and workshops.
@@ -36,12 +45,34 @@ Non-functional requirements define how the system should perform rather than wha
 - Integration with CDN for faster content delivery worldwide  
 - Logging, monitoring, and error handling for system reliability
 
-## Why is Requirement Analysis Important?
-1. Clarity of Scope – Prevents misunderstandings by ensuring all stakeholders have a common understanding of the system.
-2. Prevents Rework – Early identification of needs reduces costly changes later in development.
-3. Guides Design & Development – Provides a blueprint for system architecture, coding, and testing.
-4. Improves Quality – Clear requirements ensure the final product meets user expectations and business objectives.
-5. Enhances Communication – Acts as a bridge between stakeholders and developers by translating business needs into technical terms.
-6. Facilitates Testing – Test cases are designed based on documented requirements, ensuring complete coverage.
-7. Risk Reduction – Identifies potential issues, constraints, or conflicts at an early stage.
+## Use Case Diagrams
 
+### What are Use Case Diagrams?
+Use Case Diagrams are a type of Unified Modeling Language (UML) diagram that visually represent the functional requirements of a system. They show **how different users (actors)** interact with the system and what **use cases (functions)** they can perform.  
+
+### Benefits of Use Case Diagrams
+- Provide a clear picture of system functionality from the user’s perspective  
+- Help identify all possible interactions between users and the system  
+- Bridge communication between stakeholders, developers, and testers  
+- Serve as a foundation for writing detailed use case scenarios  
+
+### Use Case Diagram for Booking System
+The main actors in the booking system are:  
+- **Customer** (searches hotels, makes bookings, payments, views bookings)  
+- **Hotel Manager** (manages hotel listings, views bookings, receives notifications)  
+- **Payment Gateway** (processes secure payments)  
+- **System Administrator** (manages users, monitors system performance)  
+
+**Main Use Cases include:**  
+- Register/Login  
+- Search Hotels  
+- Book Hotel  
+- Make Payment  
+- Cancel Booking  
+- View Bookings  
+- Manage Hotel Listings  
+- Receive Notifications  
+- Manage Users  
+
+### Diagram
+<img width="578" height="337" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/e9fb59e5-68da-4cba-8739-52bf397f8645" />
