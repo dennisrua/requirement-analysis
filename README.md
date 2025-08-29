@@ -5,11 +5,11 @@ This repo is a documentation to show what a Requirements Analysis document is an
 Requirement Analysis is the process of identifying, gathering, analyzing, and documenting the needs and expectations of stakeholders for a software project. It is one of the most crucial phases of the Software Development Life Cycle (SDLC) because it lays the foundation upon which the entire system is designed and built.
 
 ### Key Activities in Requirement Analysis
-1. Requirement Gathering – Collecting input from stakeholders (clients, users, business analysts, managers, etc.) through interviews, questionnaires, workshops, and observation.
-2. Requirement Elicitation – Clarifying and uncovering hidden requirements using techniques like brainstorming, prototyping, and workshops.
-3. Requirement Documentation – Preparing structured records such as the Software Requirement Specification (SRS) to capture functional and non-functional needs.
-4. Requirement Analysis and Modeling – Examining requirements for feasibility, consistency, and completeness, often using diagrams and models like UML or DFDs.
-5. Requirement Validation – Ensuring requirements are correct, complete, realistic, and aligned with business goals through reviews, walkthroughs, and prototypes.
+* Requirement Gathering – Collecting input from stakeholders (clients, users, business analysts, managers, etc.) through interviews, questionnaires, workshops, and observation.
+* Requirement Elicitation – Clarifying and uncovering hidden requirements using techniques like brainstorming, prototyping, and workshops.
+* Requirement Documentation – Preparing structured records such as the Software Requirement Specification (SRS) to capture functional and non-functional needs.
+* Requirement Analysis and Modeling – Examining requirements for feasibility, consistency, and completeness, often using diagrams and models like UML or DFDs.
+* Requirement Validation – Ensuring requirements are correct, complete, realistic, and aligned with business goals through reviews, walkthroughs, and prototypes.
 
 ### Types of Requirements
 - Functional Requirements – Define specific functions or behaviors (e.g., “The system must allow users to log in with email and password”).
