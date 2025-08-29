@@ -6,11 +6,10 @@ Requirement Analysis is the process of identifying, gathering, analyzing, and do
 
 ### Key Activities in Requirement Analysis
 1. Requirement Gathering – Collecting input from stakeholders (clients, users, business analysts, managers, etc.) through interviews, questionnaires, workshops, and observation.
-2. Requirement Categorization – Dividing requirements into functional (what the system should do) and non-functional (performance, security, usability, etc.).
-3. Feasibility Study – Checking whether the requirements are technically, economically, and legally feasible.
-4. Requirement Prioritization – Ranking requirements based on importance, cost, and urgency.
-5. Requirement Documentation – Preparing clear and structured documents such as the Software Requirement Specification (SRS).
-6. Requirement Validation – Ensuring that the requirements are consistent, complete, realistic, and align with business goals.
+2. Requirement Elicitation – Clarifying and uncovering hidden requirements using techniques like brainstorming, prototyping, and workshops.
+3. Requirement Documentation – Preparing structured records such as the Software Requirement Specification (SRS) to capture functional and non-functional needs.
+4. Requirement Analysis and Modeling – Examining requirements for feasibility, consistency, and completeness, often using diagrams and models like UML or DFDs.
+5. Requirement Validation – Ensuring requirements are correct, complete, realistic, and aligned with business goals through reviews, walkthroughs, and prototypes.
 
 ### Types of Requirements
 - Functional Requirements – Define specific functions or behaviors (e.g., “The system must allow users to log in with email and password”).
