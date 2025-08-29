@@ -76,3 +76,23 @@ The main actors in the booking system are:
 
 ### Diagram
 <img width="578" height="337" alt="alx-booking-uc.png" src="https://github.com/user-attachments/assets/e9fb59e5-68da-4cba-8739-52bf397f8645" />
+
+## Acceptance Criteria
+
+### Importance of Acceptance Criteria in Requirement Analysis
+Acceptance Criteria are the predefined conditions that a software product must meet to be accepted by stakeholders, clients, or end-users. They play a crucial role in Requirement Analysis by:  
+- Ensuring that all requirements are measurable and testable  
+- Providing clarity to developers on what needs to be built  
+- Reducing ambiguity by clearly defining the scope of a feature  
+- Acting as a reference point for quality assurance and testing  
+- Aligning stakeholders and development teams on expected outcomes  
+
+### Example: Checkout Feature in Booking Management System
+**Acceptance Criteria for Checkout:**  
+1. The system must allow users to view all selected bookings before proceeding to checkout.  
+2. The system must display the total price, including taxes and fees, before payment.  
+3. The user must be able to choose a payment method (e.g., credit card, PayPal, mobile money).  
+4. The system must validate payment details before processing.  
+5. A confirmation message must be shown after successful payment.  
+6. The system must send a booking confirmation email to the user within 5 minutes of checkout.  
+7. If payment fails, the system must display an error message and allow the user to retry.  
